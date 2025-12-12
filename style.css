@@ -1,6 +1,5 @@
 *{
     margin: 0;
-    font-family: "Style Script";
 }
 header{
     background-image: url(content/img/fej-kar06.gif);
@@ -17,4 +16,5 @@ header h1{
     text-align: center;
     color: red;
     font-size: 3em;
+    font-family: "Style Script";
 }
