@@ -50,9 +50,21 @@ main div img{
     width: 35%;
     height: auto;
     object-fit: contain;
+    border: 10px solid var(--primary-red);
+}
+main div img:hover{
+    transform: scale(1.02);
+    transition: 0.2s ease-out;
 }
 main div section{
     width: 60%;
+}
+footer{
+    padding: 2em;
+    background-color: var(--secondary-tan);
+    width: 90dvw;
+    border-radius: 1em 1em 0 0;
+    margin-top: 1em;
 }
 @media (max-width: 1400px) {
     main div, #type2{
