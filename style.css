@@ -1,6 +1,12 @@
 *{
     margin: 0;
 }
+:root{
+    --primary-red: rgb(216, 64, 64);
+    --secondary-red: rgb(163, 29, 29);
+    --primary-tan: rgb(236, 220, 191);
+    --secondary-tan: rgb(248, 242, 222);
+}
 body{
     display: flex;
     flex-direction: column;
