@@ -54,9 +54,8 @@ main div img{
 main div section{
     width: 60%;
 }
-li{
-    list-style: none;
-
+li {
+    list-style-image: url(content/img/li.png);
 }
 @media (max-width: 1400px) {
     main div, #type2{
